@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DKI Jakarta_pi__cart__add-icon button _fafcc8</name>
+   <tag></tag>
+   <elementGuidId>b8fc5d31-ca86-40b6-9be6-a0cdf61fb922</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-list']/form/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>154d9131-a0a8-450b-9f6d-09903ee1cfc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi__cart__add-icon button button--sm button--cta-invert pointer</value>
+      <webElementGuid>c9781633-42e6-4ec3-a4c9-36174b493534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-list&quot;)/form[1]/div[@class=&quot;container plist__filter__container&quot;]/div[@class=&quot;plist__container scrollto__section&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;pi__wrapper&quot;]/div[@class=&quot;pi pi__default pl__sizer&quot;]/div[@class=&quot;pi__cart&quot;]/div[@class=&quot;pi__cart__container&quot;]/span[@class=&quot;pi__cart__add-icon button button--sm button--cta-invert pointer&quot;]</value>
+      <webElementGuid>0f2d7490-c388-4678-9e11-44b6f3345e9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/form/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/span</value>
+      <webElementGuid>0a46df99-d01e-4753-b284-5c4044a46705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DKI Jakarta'])[3]/following::span[1]</value>
+      <webElementGuid>0e1e4faa-16c6-4812-a599-7f2e8dbd7621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SVL'])[1]/following::span[1]</value>
+      <webElementGuid>4dd29cf0-2e47-4ab0-b0e8-ba6d73abc24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Sekarang'])[2]/preceding::span[1]</value>
+      <webElementGuid>55a39b90-6723-4ddb-9cf5-177f7b29f8e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/span</value>
+      <webElementGuid>fbc658c0-51ed-4053-9e1c-258592860ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/form/div[2]/div[2]/div[2]/div/div/div[2]/div/span</value>
+      <webElementGuid>e4e440a9-8b21-4d57-92cf-380f813e7203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DKI Jakarta'])[2]/following::span[1]</value>
+      <webElementGuid>bc3f4134-b0e8-4a9b-ae3d-47defcd6bd8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOJO CompTech'])[1]/following::span[1]</value>
+      <webElementGuid>7f143050-0ebe-45f9-aec9-51a4e87c717c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Sekarang'])[1]/preceding::span[1]</value>
+      <webElementGuid>b02129de-77f2-4445-b4b3-fb4c2a5131f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung S21 Plus Hardcase SVL Vintage Leather SLIM Case Casing Kulit'])[1]/preceding::span[3]</value>
+      <webElementGuid>9d5571d3-5964-410c-aecc-f6cbe0c30f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/span</value>
+      <webElementGuid>910ff3ce-e308-4e39-9c32-da9cc24ab05f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>76f2115e-7593-4339-9677-b8d33afeb3d9</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>02f37443-670e-4dd6-9e92-7289d1ed8806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>/images/desktop/svgicons/general.svg?21#cart</value>
+      <webElementGuid>b619b054-47fc-4d13-a6c0-73c1ebeb1d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-list&quot;)/form[1]/div[@class=&quot;container plist__filter__container&quot;]/div[@class=&quot;plist__container scrollto__section&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;pi__wrapper&quot;]/div[@class=&quot;pi pi__default pl__sizer&quot;]/div[@class=&quot;pi__cart&quot;]/div[@class=&quot;pi__cart__container&quot;]/span[@class=&quot;pi__cart__add-icon button button--sm button--cta-invert pointer&quot;]/svg[@class=&quot;ico ico--24 ico--red&quot;]/use[1]</value>
+      <webElementGuid>bca87ab7-8e84-460e-92ab-385564fa7a60</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

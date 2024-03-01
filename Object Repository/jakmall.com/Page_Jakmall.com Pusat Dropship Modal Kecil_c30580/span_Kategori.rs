@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kategori</name>
+   <tag></tag>
+   <elementGuidId>5c107490-17a6-44ad-863b-00f7874df8a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-body']/div/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.header__category__trigger > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9f88ae80-a9a8-4905-89d9-d243300ed742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kategori</value>
+      <webElementGuid>76546ca1-8d34-4a83-9979-dcc79d3c65cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-body&quot;)/div[@class=&quot;header__wrapper header__wrapper--no-category&quot;]/div[@class=&quot;header__container&quot;]/div[@class=&quot;header__content&quot;]/div[@class=&quot;header__side&quot;]/button[@class=&quot;header__category__trigger&quot;]/span[1]</value>
+      <webElementGuid>2711ea80-1aff-4213-b77f-5f3f62b07175</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-body']/div/div/div/div/button/span</value>
+      <webElementGuid>9252e8ac-a78c-4b68-9082-9833cc20374d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='menu'])[1]/following::span[1]</value>
+      <webElementGuid>292f8123-8afb-4665-9dba-bcce0d0656ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terakhir Dilihat'])[1]/following::span[1]</value>
+      <webElementGuid>7430e3fb-d530-41fa-8edd-3d3b5b926648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[2]/preceding::span[1]</value>
+      <webElementGuid>00eb1aaa-e160-44d5-aa89-c118d3e261f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kategori']/parent::*</value>
+      <webElementGuid>fe19e986-a141-4842-9719-6726fec64d57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>50e698f3-fa5b-42f9-bc8b-452884b75b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kategori' or . = 'Kategori')]</value>
+      <webElementGuid>59cdbd23-bc46-4224-99e5-26324b201bdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,68 @@
+[35m[Appium][39m Welcome to Appium v2.5.1
+[35m[Appium][39m Non-default server args:
+[35m[Appium][39m { basePath: [32m'/wd/hub'[39m, loglevel: [32m'info'[39m, port: [33m56444[39m }
+[35m[Appium][39m Attempting to load driver uiautomator2...
+[35m[Appium][39m Appium REST http interface listener started on http://0.0.0.0:56444/wd/hub
+[35m[Appium][39m You can provide the following URLs in your client code to connect to this server:
+[35m[Appium][39m 	http://192.168.155.1:56444/wd/hub
+[35m[Appium][39m 	http://192.168.56.1:56444/wd/hub
+[35m[Appium][39m 	http://192.168.50.166:56444/wd/hub
+[35m[Appium][39m 	http://127.0.0.1:56444/wd/hub (only accessible from the same host)
+[35m[Appium][39m 	http://172.20.48.1:56444/wd/hub
+[35m[Appium][39m Available drivers:
+[35m[Appium][39m   - uiautomator2@3.0.0 (automationName 'UiAutomator2')
+[35m[Appium][39m No plugins have been installed. Use the "appium plugin" command to install the one(s) you want to use.
+[38;5;0m[HTTP][0m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m
+[38;5;0m[HTTP][0m [90m{}[39m
+[38;5;0m[HTTP][0m [37m<-- GET /wd/hub/status [39m[32m200[39m [90m6 ms - 110[39m
+[38;5;0m[HTTP][0m [90m[39m
+[38;5;0m[HTTP][0m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m
+[38;5;0m[HTTP][0m [90m{}[39m
+[38;5;0m[HTTP][0m [37m<-- GET /wd/hub/status [39m[32m200[39m [90m1 ms - 110[39m
+[38;5;0m[HTTP][0m [90m[39m
+[38;5;0m[HTTP][0m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m
+[38;5;0m[HTTP][0m [90m{"desiredCapabilities":{"appium:systemPort":8239,"appium:udid":"EQVC7DIBVWQK7HRO","appium:autoGrantPermissions":true,"appium:newCommandTimeout":1800,"appium:platformName":"ANDROID","appium:appActivity":".Settings","appium:deviceName":"realme RMX2151 (Android 12)","platformName":"Android","appium:automationName":"uiautomator2","appium:platformVersion":"12","appium:appPackage":"com.android.settings"},"capabilities":{"firstMatch":[{"appium:appActivity":".Settings","appium:appPackage":"com.android.settings","appium:autoGrantPermissions":true,"appium:automationName":"uiautomator2","appium:deviceName":"realme RMX2151 (Android 12)","appium:newCommandTimeout":1800,"appium:platformName":"ANDROID","appium:platformVersion":"12","appium:systemPort":8239,"appium:udid":"EQVC7DIBVWQK7HRO","platformName":"android"}]}}[39m
+[38;5;32m[BaseDriver][0m Ignoring capability 'appium:platformName=ANDROID' and using capability 'platformName=android'
+[38;5;32m[BaseDriver][0m The capabilities ["platformName"] are standard capabilities and do not require "appium:" prefix
+[35m[Appium][39m Attempting to find matching driver for automationName 'uiautomator2' and platformName 'android'
+[35m[Appium][39m The 'uiautomator2' driver was installed and matched caps.
+[35m[Appium][39m Will require it at C:\Users\Cintya Yossy Silvana\.appium\node_modules\appium-uiautomator2-driver
+[38;5;16m[AppiumDriver@7c72][0m Appium v2.5.1 creating new AndroidUiautomator2Driver (v3.0.0) session
+[38;5;16m[AppiumDriver@7c72][0m Checking BaseDriver versions for Appium and AndroidUiautomator2Driver
+[38;5;16m[AppiumDriver@7c72][0m Appium's BaseDriver version is 9.5.2
+[38;5;16m[AppiumDriver@7c72][0m AndroidUiautomator2Driver's BaseDriver version is 9.5.2
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m Session created with session id: d06837eb-2aa4-4615-be4b-fc2815b30463
+[38;5;64m[ADB][0m Found 1 'build-tools' folders under 'C:\Users\Cintya Yossy Silvana\.katalon\tools\android_sdk' (newest first):
+[38;5;64m[ADB][0m     C:\Users\Cintya Yossy Silvana\.katalon\tools\android_sdk\build-tools\29.0.3
+[38;5;64m[ADB][0m Using 'adb.exe' from 'C:\Users\Cintya Yossy Silvana\.katalon\tools\android_sdk\platform-tools\adb.exe'
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m Retrieving device list
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m Using device: EQVC7DIBVWQK7HRO
+[38;5;64m[ADB][0m Using 'adb.exe' from 'C:\Users\Cintya Yossy Silvana\.katalon\tools\android_sdk\platform-tools\adb.exe'
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m Starting 'com.android.settings' directly on the device
+[38;5;64m[ADB][0m Getting device platform version
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m Relaxing hidden api policy
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m No app sent in, not parsing package/activity
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m Unable to stop ChromeDriver proxies: Cannot read properties of undefined (reading 'proxyReqRes')
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m Restoring hidden api policy to the device default configuration
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m Unable to set mock location for app 'io.appium.settings': Error executing adbExec. Original error: 'Command ''C:\\Users\\Cintya Yossy Silvana\\.katalon\\tools\\android_sdk\\platform-tools\\adb.exe' -P 5037 -s EQVC7DIBVWQK7HRO shell appops set io.appium.settings android\:mock_location allow' exited with code 255'; Command output: 
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m Exception occurred while executing 'set':
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m java.lang.SecurityException: uid 2000 does not have android.permission.MANAGE_APP_OPS_MODES.
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at android.app.ContextImpl.enforce(ContextImpl.java:2212)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at android.app.ContextImpl.enforcePermission(ContextImpl.java:2221)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at com.android.server.appop.AppOpsService.enforceManageAppOpsModes(AppOpsService.java:2575)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at com.android.server.appop.AppOpsService.setMode(AppOpsService.java:2905)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at com.android.server.appop.AppOpsService.setMode(AppOpsService.java:2900)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at com.android.server.appop.AppOpsService.onShellCommand(AppOpsService.java:5680)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at com.android.server.appop.AppOpsService$Shell.onCommand(AppOpsService.java:5449)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at com.android.modules.utils.BasicShellCommandHandler.exec(BasicShellCommandHandler.java:97)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at android.os.ShellCommand.exec(ShellCommand.java:38)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at com.android.server.appop.AppOpsService.onShellCommand(AppOpsService.java:5621)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at android.os.Binder.shellCommand(Binder.java:970)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at android.os.Binder.onTransact(Binder.java:854)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:1198)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at com.android.server.appop.OplusAppOpsService.onTransact(OplusAppOpsService.java:38)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at android.os.Binder.execTransactInternal(Binder.java:1226)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 	at android.os.Binder.execTransact(Binder.java:1163)
+[38;5;48m[AndroidUiautomator2Driver@9245 (d06837eb)][0m 
+[38;5;0m[HTTP][0m [37m<-- POST /wd/hub/session [39m[31m500[39m [90m1793 ms - 10684[39m
+[38;5;0m[HTTP][0m [90m[39m

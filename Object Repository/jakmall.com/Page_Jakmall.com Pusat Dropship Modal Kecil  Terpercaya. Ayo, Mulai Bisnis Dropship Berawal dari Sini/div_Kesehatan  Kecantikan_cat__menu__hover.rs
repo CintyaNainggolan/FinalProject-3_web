@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kesehatan  Kecantikan_cat__menu__hover</name>
+   <tag></tag>
+   <elementGuidId>f8453f7e-cd62-4628-985e-387ac39b92eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-body']/div/div/div/div/div[2]/div/div/div[8]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cat__menu__item.cat__menu__item--active > a.cat__menu__title > div.cat__menu__hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e368fbfe-3934-4e96-a60b-7edbd2dcacf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cat__menu__hover</value>
+      <webElementGuid>4c987dfc-2b67-4458-b6cf-36b0abf4a527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-body&quot;)/div[@class=&quot;header__wrapper header__wrapper--no-category&quot;]/div[@class=&quot;header__container&quot;]/div[@class=&quot;header__content&quot;]/div[@class=&quot;header__side&quot;]/div[@class=&quot;header__category header__category--active header__category--desktop&quot;]/div[@class=&quot;cat&quot;]/div[@class=&quot;cat__menu&quot;]/div[@class=&quot;cat__menu__item cat__menu__item--active&quot;]/a[@class=&quot;cat__menu__title&quot;]/div[@class=&quot;cat__menu__hover&quot;]</value>
+      <webElementGuid>31132ee3-ace3-4800-b556-495002988d8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-body']/div/div/div/div/div[2]/div/div/div[8]/a/div</value>
+      <webElementGuid>196e0f52-3234-4dcd-9b6c-e1269638f582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/a/div</value>
+      <webElementGuid>bc1487d8-e123-41bd-8065-19085ae301ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

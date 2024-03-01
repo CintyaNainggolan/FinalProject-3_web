@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Handphone  Tablet_cat__menu__hover</name>
+   <tag></tag>
+   <elementGuidId>98e8831e-be90-4f71-b0ce-31e92a1f6894</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-body']/div/div/div/div/div[2]/div/div/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cat__menu__hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>881783f4-bf89-449c-90ce-e553cc86e998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cat__menu__hover</value>
+      <webElementGuid>d1968bed-9776-461f-9bac-85ece078ff9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-body&quot;)/div[@class=&quot;header__wrapper header__wrapper--no-category&quot;]/div[@class=&quot;header__container&quot;]/div[@class=&quot;header__content&quot;]/div[@class=&quot;header__side&quot;]/div[@class=&quot;header__category header__category--active header__category--desktop&quot;]/div[@class=&quot;cat&quot;]/div[@class=&quot;cat__menu&quot;]/div[@class=&quot;cat__menu__item cat__menu__item--active&quot;]/a[@class=&quot;cat__menu__title&quot;]/div[@class=&quot;cat__menu__hover&quot;]</value>
+      <webElementGuid>75eab0a5-a848-4d65-8b41-d92671a55597</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-body']/div/div/div/div/div[2]/div/div/div[2]/a/div</value>
+      <webElementGuid>5b5ce069-d481-48df-9d0e-40c293d6bb26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>422fe7c7-247a-4a5f-874f-11ce01a379fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

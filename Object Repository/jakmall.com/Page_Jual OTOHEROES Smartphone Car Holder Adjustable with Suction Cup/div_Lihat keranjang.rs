@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lihat keranjang</name>
+   <tag></tag>
+   <elementGuidId>3c3ffe6a-1fb7-4598-b73c-07fc3175f78d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-aff-cart']/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.header__cart__top > div.flex--simple</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ef19532-a818-4891-977e-7188a63150dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex--simple</value>
+      <webElementGuid>f9eed06e-068b-4504-9165-24baf227b0e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lihat keranjang</value>
+      <webElementGuid>706a167b-a15a-46a6-b8f3-8ae251503aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-aff-cart&quot;)/div[@class=&quot;header__component__dropdown&quot;]/div[@class=&quot;header__cart&quot;]/div[@class=&quot;header__cart__top&quot;]/div[@class=&quot;flex--simple&quot;]</value>
+      <webElementGuid>d7803ecb-ec82-4c03-9855-0fbff5c72339</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-aff-cart']/div/div[2]/div/div[2]</value>
+      <webElementGuid>471acfdc-cfa1-470a-9091-f1ee8b00b8c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[1]/following::div[4]</value>
+      <webElementGuid>eaddd74f-5a93-4115-abf4-f147b54f3999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditambahkan'])[1]/preceding::div[1]</value>
+      <webElementGuid>4ec359a8-e43e-4716-b8e3-cbf69c1ce03d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>ab670ce4-4dbc-43c8-b597-15ee32bd4202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Lihat keranjang' or . = ' Lihat keranjang')]</value>
+      <webElementGuid>8a970433-fb8d-4297-ba92-0a3cd55ea9b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

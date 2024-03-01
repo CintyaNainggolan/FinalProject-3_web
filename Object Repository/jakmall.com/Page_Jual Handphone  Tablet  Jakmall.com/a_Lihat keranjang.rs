@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat keranjang</name>
+   <tag></tag>
+   <elementGuidId>443e8384-5fa2-40dd-b17e-5d0bf84cf9c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-aff-cart']/div/div[2]/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.link.link--cta</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f9b531d8-ebe3-4f90-9360-ba0f54338380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.jakmall.com/cart?jtm=789c8b56ca484d4c492d52d2514a29ca2f48c92fcfd34d4e2c2a01f28b2b8b75e1923999198925bad9a9458979598979e94a3ad1b1b100768a14c3</value>
+      <webElementGuid>f34df40d-79e1-404e-8324-c70005decba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link link--cta</value>
+      <webElementGuid>14286169-6222-4589-93a7-8f383bf22f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat keranjang</value>
+      <webElementGuid>29a48447-fad4-499c-8317-c8b7b944ab0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-aff-cart&quot;)/div[@class=&quot;header__component__dropdown&quot;]/div[@class=&quot;header__cart&quot;]/div[@class=&quot;header__cart__top&quot;]/div[@class=&quot;flex--simple&quot;]/a[@class=&quot;link link--cta&quot;]</value>
+      <webElementGuid>3ef1c5a0-bfb3-4452-9f0c-14c6b87a62b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-aff-cart']/div/div[2]/div/div[2]/a</value>
+      <webElementGuid>cb48e8c8-457a-4902-965b-36262d891dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lihat keranjang')]</value>
+      <webElementGuid>f5f9ce52-d159-42a4-96ac-724c9a6340ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[1]/following::a[1]</value>
+      <webElementGuid>6fb6815c-6329-433e-83ca-6a50057b7ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TaffSTUDIO Mikrofon Kondenser Studio Mic XLR with Shockproof Mount - BM-800'])[1]/preceding::a[2]</value>
+      <webElementGuid>48a7317e-4d25-4ead-8ef0-54af365cbf2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitam'])[1]/preceding::a[3]</value>
+      <webElementGuid>e3a9787e-d99e-4479-b497-5ccfa0ca8cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat keranjang']/parent::*</value>
+      <webElementGuid>3998ac71-621d-4969-a716-d6261ff3db09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.jakmall.com/cart?jtm=789c8b56ca484d4c492d52d2514a29ca2f48c92fcfd34d4e2c2a01f28b2b8b75e1923999198925bad9a9458979598979e94a3ad1b1b100768a14c3')]</value>
+      <webElementGuid>ff5139d1-dbfe-4bf2-a061-2b29f9b86ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/a</value>
+      <webElementGuid>3ad65bab-e195-4e66-a8cf-6ae9c4efc37e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.jakmall.com/cart?jtm=789c8b56ca484d4c492d52d2514a29ca2f48c92fcfd34d4e2c2a01f28b2b8b75e1923999198925bad9a9458979598979e94a3ad1b1b100768a14c3' and (text() = 'Lihat keranjang' or . = 'Lihat keranjang')]</value>
+      <webElementGuid>67d2de33-8721-45d4-b40d-5f008c617c98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

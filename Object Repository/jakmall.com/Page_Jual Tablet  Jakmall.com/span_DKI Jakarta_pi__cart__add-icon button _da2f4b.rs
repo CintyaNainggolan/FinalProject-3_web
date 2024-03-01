@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DKI Jakarta_pi__cart__add-icon button _da2f4b</name>
+   <tag></tag>
+   <elementGuidId>fe38ad50-7162-43d4-b931-a3d7b97db89f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-list']/form/div[2]/div[2]/div[2]/div/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.pi__cart__add-icon.button.button--sm.button--cta-invert.pointer.button--load</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>05c19671-bf37-45b8-ba7d-02bc46477cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi__cart__add-icon button button--sm button--cta-invert pointer button--load</value>
+      <webElementGuid>1b2aac0d-f7aa-497f-a058-624f9d41ee81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-list&quot;)/form[1]/div[@class=&quot;container plist__filter__container&quot;]/div[@class=&quot;plist__container scrollto__section&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;pi__wrapper&quot;]/div[@class=&quot;pi pi__default pl__sizer&quot;]/div[@class=&quot;pi__cart&quot;]/div[@class=&quot;pi__cart__container&quot;]/span[@class=&quot;pi__cart__add-icon button button--sm button--cta-invert pointer button--load&quot;]</value>
+      <webElementGuid>037d2a3b-b8a8-4455-9e29-602664a9f6bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/form/div[2]/div[2]/div[2]/div/div/div[2]/div/span</value>
+      <webElementGuid>3ab509bf-07cc-4043-85a4-7be1d1510e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DKI Jakarta'])[2]/following::span[1]</value>
+      <webElementGuid>3cd7c8fc-5811-4119-97c2-73bc35aa3d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOJO CompTech'])[1]/following::span[1]</value>
+      <webElementGuid>86402a4e-4a15-4290-8d58-a0595ecae9b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Sekarang'])[1]/preceding::span[1]</value>
+      <webElementGuid>6d6507b5-939b-497e-ae97-4ee6406bb6aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung S21 Plus Hardcase SVL Vintage Leather SLIM Case Casing Kulit'])[1]/preceding::span[3]</value>
+      <webElementGuid>70fb334f-a89c-46b9-b019-0e330f2f1aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/span</value>
+      <webElementGuid>99638cf3-2f0e-406e-8087-aa3c448151a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

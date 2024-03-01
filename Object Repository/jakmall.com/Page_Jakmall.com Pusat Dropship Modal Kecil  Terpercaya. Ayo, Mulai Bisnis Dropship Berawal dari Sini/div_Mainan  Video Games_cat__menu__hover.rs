@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mainan  Video Games_cat__menu__hover</name>
+   <tag></tag>
+   <elementGuidId>951ac147-0bd9-476b-b54b-37d5d5341505</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-body']/div/div/div/div/div[2]/div/div/div[9]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cat__menu__item.cat__menu__item--active > a.cat__menu__title > div.cat__menu__hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c12b3ba2-f3a0-4384-bc9c-e4af50861e09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cat__menu__hover</value>
+      <webElementGuid>f8536ced-5a16-43f8-8626-6d4c4efd6dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-body&quot;)/div[@class=&quot;header__wrapper header__wrapper--no-category&quot;]/div[@class=&quot;header__container&quot;]/div[@class=&quot;header__content&quot;]/div[@class=&quot;header__side&quot;]/div[@class=&quot;header__category header__category--active header__category--desktop&quot;]/div[@class=&quot;cat&quot;]/div[@class=&quot;cat__menu&quot;]/div[@class=&quot;cat__menu__item cat__menu__item--active&quot;]/a[@class=&quot;cat__menu__title&quot;]/div[@class=&quot;cat__menu__hover&quot;]</value>
+      <webElementGuid>01f94ffa-a560-4b21-871e-7e600317f894</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-body']/div/div/div/div/div[2]/div/div/div[9]/a/div</value>
+      <webElementGuid>3497f7fe-48b8-4b71-b9c9-6036663f4af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/a/div</value>
+      <webElementGuid>5b14eb02-2ee9-411c-a00c-e6463b243b31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

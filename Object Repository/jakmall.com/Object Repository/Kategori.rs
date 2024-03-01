@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Kategori</name>
+   <tag></tag>
+   <elementGuidId>38083b71-ea0c-4c99-8a16-7673df4c1c73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${categoryName}</value>
+      <webElementGuid>82f84eae-6c53-43de-9817-b2e03cf29386</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DKI Jakarta_pi__cart__add-icon button _fafcc8</name>
+   <tag></tag>
+   <elementGuidId>37261f97-8c14-4e54-8897-a234d370f503</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-list']/form/div[2]/div[2]/div[2]/div/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.pi__cart__add-icon.button.button--sm.button--cta-invert.pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fc9c2ccd-4e5b-4e00-bae6-3c9319f137a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi__cart__add-icon button button--sm button--cta-invert pointer</value>
+      <webElementGuid>e1c006e2-cc5f-4b46-bd77-30f6e1ee8fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-list&quot;)/form[1]/div[@class=&quot;container plist__filter__container&quot;]/div[@class=&quot;plist__container scrollto__section&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;pi__wrapper&quot;]/div[@class=&quot;pi pi__default pl__sizer&quot;]/div[@class=&quot;pi__cart&quot;]/div[@class=&quot;pi__cart__container&quot;]/span[@class=&quot;pi__cart__add-icon button button--sm button--cta-invert pointer&quot;]</value>
+      <webElementGuid>bc03bcad-6b8d-4401-9a63-ae916697e2ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/form/div[2]/div[2]/div[2]/div/div/div[2]/div/span</value>
+      <webElementGuid>6b9519fe-585a-41a7-8f41-2c050da672b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DKI Jakarta'])[2]/following::span[1]</value>
+      <webElementGuid>9981b012-d084-46d2-95ed-bc457dcbbfef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fast n Cheap'])[1]/following::span[1]</value>
+      <webElementGuid>3f06ae2d-136f-4521-adc8-6910af058cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Sekarang'])[1]/preceding::span[1]</value>
+      <webElementGuid>f85b911d-9bb1-47dc-a70e-083711eb9034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VBESTLIFE Case Power Bank DIY untuk 5 PCS 18650 - YDJ-009HX'])[2]/preceding::span[3]</value>
+      <webElementGuid>71f4f054-99d1-4308-add8-947f9015f3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/span</value>
+      <webElementGuid>e8cf933b-d85c-4720-9c43-6edac591cd2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VBESTLIFE Case Power Bank DIY untuk 5 PCS 18650 - YDJ-009HX'])[1]/preceding::span[3]</value>
+      <webElementGuid>257cec0a-2dcf-49b0-b1e0-faed6a9cf917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/form/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/span</value>
+      <webElementGuid>aec26040-80de-4b9a-b2a4-3627f84db427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DKI Jakarta'])[3]/following::span[1]</value>
+      <webElementGuid>203b3c85-ec35-4ea1-95e6-9268209050c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fast n Cheap'])[2]/following::span[1]</value>
+      <webElementGuid>c2fe00a7-1069-445e-b329-3cc239242415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Sekarang'])[2]/preceding::span[1]</value>
+      <webElementGuid>57264a8c-c0da-4df5-bc28-0731772f97db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taffware Case Power Bank DIY untuk 2 PCS 18650 Flat Top - M06'])[1]/preceding::span[3]</value>
+      <webElementGuid>91e0a594-ab93-4141-8fbc-2c7da4ff9b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/span</value>
+      <webElementGuid>c5056401-25b0-46ca-9a80-8ae273b33e05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
